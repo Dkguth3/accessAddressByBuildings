@@ -1,5 +1,4 @@
 ####Description: Streamlines workflow after building polygons are sliced (USE SLICE ON STEROIDS TOOL IN CUSTOM PLUGINS)"
-###Date: 01|14|2022
 ###Author: Darren Guthrie 
 
 
